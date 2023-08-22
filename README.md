@@ -30,9 +30,3 @@ A collection of my work from uni classes - notes, assignments, and more.
 ##Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xadidkbi37xda7bjhzatw3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-##Steam
-
- <!-- steam-box start -->
- <!-- steam-box end -->
- 
