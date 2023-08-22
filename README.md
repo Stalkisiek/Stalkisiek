@@ -29,4 +29,4 @@ A collection of my work from uni classes - notes, assignments, and more.
 
 ---
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xadidkbi37xda7bjhzatw3a&cover_image=true&theme=default)](https://open.spotify.com/user/21xadidkbi37xda7bjhzatw3a?si=6d56a07dd46a46ff)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21xadidkbi37xda7bjhzatw3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
