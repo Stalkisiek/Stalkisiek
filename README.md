@@ -2,12 +2,15 @@
 
 Welcome to my GitHub profile! I'm a student, developer, and cat lover. Here's a glimpse into my world:
 
-- 🔭 I'm currently working on [dotnet-rpgAPI](https://github.com/Stalkisiek/dotnet-rpgAPI).
+- 🔭 I'm currently working on [CashFlow](https://github.com/Stalkisiek/CashFlow).
 - 🌱 I'm learning C# .Net 7.
 - 🎮 When I'm not coding, you'll find me gaming on [Steam](https://steamcommunity.com/id/stalkisiek/).
 - 🎵 I'm currently listening to my favorite tunes on [Spotify](https://open.spotify.com/user/21xadidkbi37xda7bjhzatw3a?si=6d56a07dd46a46ff).
 
 ## Projects Highlights
+
+### [dotnet-rpgAPI]
+Simple backend app to create heroes.
 
 ### [FunnyMonkey](https://github.com/Stalkisiek/FunnyMonkey)
 Daily dose of cute/funny cat photos to brighten your day.
