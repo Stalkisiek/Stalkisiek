@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student, developer, and cat lover. Here's a 
 
 ## Projects Highlights
 
-### [dotnet-rpgAPI]
+### [dotnet-rpgAPI](https://github.com/Stalkisiek/dotnet-rpgAPI)
 Simple backend app to create heroes.
 
 ### [FunnyMonkey](https://github.com/Stalkisiek/FunnyMonkey)
