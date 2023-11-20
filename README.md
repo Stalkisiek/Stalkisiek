@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student, developer, and cat lover. Here's a glimpse into my world:
 
 - 🔭 I'm currently working on [CashFlow](https://github.com/Stalkisiek/CashFlow).
-- 🌱 I'm learning C# .Net 7.
+- 🌱 I'm learning C# .Net 7 & Basics of front-end.
 - 🎮 When I'm not coding, you'll find me gaming on [Steam](https://steamcommunity.com/id/stalkisiek/).
 - 🎵 I'm currently listening to my favorite tunes on [Spotify](https://open.spotify.com/user/21xadidkbi37xda7bjhzatw3a?si=6d56a07dd46a46ff).
 
@@ -20,9 +20,9 @@ A collection of my work from uni classes - notes, assignments, and more.
 
 ## Tech Stack
 
-- Languages: C#, C++, C, html
+- Languages: C#, C++, C, html, CSS
 - Frameworks: .Net6, .Net7
-- Tools: git, GitHub, Visual Studio Code
+- Tools: git, GitHub, Visual Studio Code, JetBrains
 
 ## Get in Touch
 
