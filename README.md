@@ -1,4 +1,4 @@
-# Hi there, I'm Mateusz Migdał 👋
+# Hi there, I'm Stalkisiek 👋
 
 Welcome to my GitHub profile! I'm a student, developer, and cat lover. Here's a glimpse into my world:
 
