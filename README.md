@@ -24,12 +24,6 @@ A collection of my work from uni classes - notes, assignments, and more.
 - Frameworks: .Net6, .Net7
 - Tools: git, GitHub, Visual Studio Code, JetBrains
 
-## Get in Touch
-
-- GitHub: [Stalkisiek](https://github.com/Stalkisiek)
-- LinkedIn: [Mateusz Migdał](https://www.linkedin.com/in/mateusz-migdał)
-- Facebook: [Mateusz Migdał](https://www.facebook.com/Stalkisiek/)
-
 ## Spotify
 
 <div align="center">
