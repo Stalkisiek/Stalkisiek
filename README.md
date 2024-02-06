@@ -20,8 +20,8 @@ A collection of my work from uni classes - notes, assignments, and more.
 
 ## Tech Stack
 
-- Languages: C#, C++, C, html, CSS
-- Frameworks: .Net6, .Net7
+- Languages: C#, C++, C, html, CSS, js, ts
+- Frameworks: .Net6, .Net7, React
 - Tools: git, GitHub, Visual Studio Code, JetBrains
 
 ## Spotify
