@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm a student, developer, and cat lover. Here's a 
 
 ## Projects Highlights
 
+### [CashFlow](https://github.com/Stalkisiek/CashFlow)
+Fullstack banking application
+
 ### [dotnet-rpgAPI](https://github.com/Stalkisiek/dotnet-rpgAPI)
 Simple backend app to create heroes.
-
-### [FunnyMonkey](https://github.com/Stalkisiek/FunnyMonkey)
-Daily dose of cute/funny cat photos to brighten your day.
 
 ### [UniversityStuff](https://github.com/Stalkisiek/UniversityStuff)
 A collection of my work from uni classes - notes, assignments, and more.
